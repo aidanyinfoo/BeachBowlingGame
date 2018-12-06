@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6d5e1fea4babf2b4f8a5a1f3fa259262
+timeCreated: 1525706248
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KG HAPPY Shadows
+  fontNames:
+  - KG HAPPY Shadows
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
